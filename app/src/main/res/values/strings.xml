@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">identifyMe</string>
+    <string name="canvasContentDescription">identifyMe is a simple number detecting app.
+        Drag your fingers to draw. Rotate the phone to clear.</string>
+</resources>
